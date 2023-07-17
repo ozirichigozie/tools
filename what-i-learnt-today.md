@@ -35,5 +35,5 @@ After running `minikube dashboard`, you should have something similar to the sna
 
 Also, when you run `kubectl get all -n kubernetes-dashboard`, you should get something similar to this on the terminal:
 
-![kubernetes-dashboard namespace details](./img/k8-dashboard-output)
+![kubernetes-dashboard namespace details](./img/k8-dashboard-output.png)
 
